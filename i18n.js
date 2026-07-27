@@ -47,6 +47,8 @@ const translations = {
     "hero.mapa.desc":     "Centros de reciclaje cerca de ti.",
     "hero.alianzas.desc": "Empresas que impulsan el cambio.",
     "hero.tienda.desc":   "Canjea tus puntos por premios.",
+    "hero.scanner":       "Escáner IA",
+    "hero.scanner.desc":  "Identifica el material al instante.",
 
     /* ── DATOS CURIOSOS ── */
     "curiosidades.title": "Datos curiosos sobre la reciclación",
@@ -633,6 +635,8 @@ const translations = {
     "hero.mapa.desc":     "Recycling centers near you.",
     "hero.alianzas.desc": "Companies driving the change.",
     "hero.tienda.desc":   "Redeem your points for rewards.",
+    "hero.scanner":       "AI Scanner",
+    "hero.scanner.desc":  "Instantly identify the material.",
 
     /* ── DATOS CURIOSOS ── */
     "curiosidades.title": "Fun facts about recycling",

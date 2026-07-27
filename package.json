@@ -1,6 +1,6 @@
 {
-  "name": "reco-plus",
-  "version": "1.31.0",
+  "name": "reco-plus-scanner",
+  "version": "1.0.0",
   "private": true,
   "engines": {
     "node": ">=18"

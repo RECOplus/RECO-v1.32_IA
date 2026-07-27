@@ -511,6 +511,10 @@ html:not(.dark) .mini-nav__chip--help {
   color: #1d5fc4 !important;
 }
 
+html:not(.dark) .mini-nav__chip--scanner {
+  color: #5b3aa8 !important;
+}
+
 /* Tarjetas rd-banner (reciclar / donar): título, descripción y CTA
    estaban en blanco/casi blanco fijo (pensados para fondo verde
    oscuro sólido), pero .rd-banner individual usa el tratamiento
